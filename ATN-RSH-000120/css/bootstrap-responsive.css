@@ -940,12 +940,12 @@
   .logo{float: none !important;}
   .mini-menu label:after {top:14px !important;}
   .mini-menu label:before {top:10px !important;}
-  
+
   /************************
     menu-style ends here
   *******/
 
-  
+
   .logo h1{font-size: 25px !important; text-align: center !important;}
   .banner .carousel img{width: 100% !important;}
   .banner .carousel-caption{top: 70% !important;}
@@ -969,7 +969,7 @@
   .contact-info h2{font-size: 15px !important; line-height: 22px !important;padding-bottom: 15px !important;}
   .contact-info form input[type="text"]{margin-bottom: 15px !important;}
   .contact-info form .btn{padding: 5px !important; font-size: 15px !important; line-height: 20px !important;}
-  
+
   .nav-collapse {
     -webkit-transform: translate3d(0, 0, 0);
   }
@@ -1017,7 +1017,7 @@
     margin: -10px;
   }
   .carousel-caption {
-    
+
   }
 }
 
